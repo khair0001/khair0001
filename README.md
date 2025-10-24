@@ -8,10 +8,10 @@
 
 I love coding, designing, and building projects that turn ideas into reality. Always exploring new tech, hobbies, and the beauty of nature!
 
-🔭 Currently experimenting with cool projects
-🌱 Constantly learning and improving my skills
-👯 Open to collaborating on open-source projects
-💬 Ask me about development, design, tech, and outdoor adventures
+- 🔭 Currently experimenting with cool projects
+- 🌱 Constantly learning and improving my skills
+- 👯 Open to collaborating on open-source projects
+- 💬 Ask me about development, design, tech, and outdoor adventures
 
 ## 🛠️ Technologies & Tools
 
