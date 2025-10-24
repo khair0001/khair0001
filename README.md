@@ -62,12 +62,12 @@ I'm a passionate developer who loves creating innovative solutions and exploring
   <img src="https://github-profile-trophy.vercel.app/?username=khair0001&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 📈 Activity Graph
+## 📈 Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khair0001&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🤝 Connect with Me
+## 🤝 Contact
 
 <div align="center">
 
