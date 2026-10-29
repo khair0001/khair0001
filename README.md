@@ -49,11 +49,6 @@ I love coding, designing, and building projects that turn ideas into reality. Al
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khair0001&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 📈 Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khair0001&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
 ## 🤝 Contact
 
 <div align="center">
